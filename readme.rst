@@ -28,7 +28,7 @@ A great development workflow will make your good developers great, and your grea
 * `Conference Session Page <http://www.codemash.org/session/automation-for-the-win/>`__
 * `Slides <https://cdn.rawgit.com/rsyring/codemash-automation-ftw/master/_build/slides/index.html>`__
 * `Slides GitHub repo <https://github.com/rsyring/codemash-automation-ftw>`__
-* `Video <https://youtu.be/H3pfsHzv_gs>`__
+* `Video <https://www.youtube.com/watch?v=vmdnF8wJqzY>`__ (audio is low, sorry)
 
 
 Custom Software Risks & Rewards: Protecting ROI using Agile methods
