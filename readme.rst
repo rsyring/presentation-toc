@@ -64,7 +64,7 @@ When it comes to automated tests, testing our internal code is often the easiest
 * `Slides GitHub repo & abstract <https://github.com/rsyring/cp-2016-testing-boundaries-slides>`__
 
 
-Code PaLOUsa 2016: Autmoated Testing Overview & Best Practices
+Code PaLOUsa 2016: Automated Testing Overview & Best Practices
 ==============================================================
 
 We'll cover testing best practices, ways to make team testing more effective, test centric vs test driven development, and how to get started testing when there are no tests and the code is messy. We'll use an example project to see how these ideas flush out in the real world.
