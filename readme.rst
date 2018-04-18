@@ -8,6 +8,22 @@ resources associated with them.
 
 *Note:* links to conference session pages will often die as the conference preps for the next year.  Not much I can do about that, sorry!  :)
 
+DerbyPy March 2018: Snacking on Celery
+======================================
+
+**An Introduction to Task Queueing with Python**
+
+At our March monthly meetup we'll be taking a look at Celery, an asynchronous task/job queue based
+on distributed message passing. Celery and it's various backends can end up being very complex.
+We'll do a gentle introduction with typical use cases. We'll then look at how to do unit and
+functional testing with your Celery tasks and PyTest.
+
+* Date: March 22nd, 2018
+* `Event Page <https://www.meetup.com/derbypy/events/vrzqnmyxfbdc/>`__
+* `GitHub Repo <https://github.com/DerbyPy/snacking-celery>`__
+* `Video of Presentation <https://www.dropbox.com/s/r9z3hyliacbjpfk/zoom_0.mp4?dl=0>`__
+
+
 PyTennessee 2017: Continuous Integration For The Win!
 =====================================================
 
