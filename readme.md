@@ -29,11 +29,39 @@ Not much I can do about that, sorry!  :)
 
 ### Woven Podcast: Learning the Hard Work of Hiring
 
-Jan 29th, 2019: An interview with [Wes Winham](https://software.fireside.fm/randy-syring) of
+Jan 29th, 2019: [An interview](https://software.fireside.fm/randy-syring) with [Wes Winham](https://www.linkedin.com/in/weswinham/) of
 [Woven](https://www.woventeams.com/) with a bit of my background and some thoughts on hiring.
 
 
-### DerbyPy March 2018: Snacking on Celery
+### DerbyPy Dec 2018: Demystifying Python Package Installation
+
+A beginners talk focusing on how python packaging works under the hood.
+
+Video: https://www.youtube.com/watch?v=8puKMSvDyyg&t=2s
+
+### DerbyPy Jul 2018: Improving Your Python Project Setup: Adding Linting, Testing, and CI to a Project
+
+We'll look at a few tools that can be used to make Python projects more robust:
+
+- [Pipenv](https://docs.pipenv.org/): dependency management
+- [Flake8](http://flake8.pycqa.org/): linting
+- [Tox](https://tox.readthedocs.io/en/latest/): testing
+- [CircleCi](https://circleci.com/): continuous integration
+
+These tools are easier to use than you probably realize and getting them all wired up together and
+working can bring a lot of value to your development workflow.
+
+GitHub repo: https://github.com/DerbyPy/project-extras
+
+### DerbyPy Apr 2018: Integration and Unit Testing Examples
+
+[Beginner's talk](https://www.meetup.com/derbypy/events/vrzqnmyxgbjc/): demo how to get started
+testing in Python using Flask. Also demonstrate how to progressively refactor tests from a
+higher-level integration approach to use more unit tests.
+
+GitHub repo: https://github.com/DerbyPy/csv-ages-testing-demo
+
+### DerbyPy Mar 2018: Snacking on Celery
 
 An Introduction to Task Queueing with Python: at our March monthly meetup we'll be taking a look at Celery, an asynchronous task/job queue based
 on distributed message passing. Celery and it's various backends can end up being very complex.
