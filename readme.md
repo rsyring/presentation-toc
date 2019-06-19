@@ -1,6 +1,6 @@
 # Randy Syring
 
-<img style="float: right;width: 200px" src="headshot.jpg">
+<img width="200" align="right" src="headshot.jpg">
 
 I am the Chief Executive Developer at [Level 12](http://www.level12.io), a web & database
 development shop that uses solid engineering, proactive communication, and modern development
