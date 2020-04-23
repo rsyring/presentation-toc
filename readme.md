@@ -17,6 +17,7 @@ automated testing, and engaging the next generation of developers.
   * https://github.com/rsyring
   * https://github.com/level12
   * https://github.com/derbypy
+* Speaker and presenter on various topics, many of which are noted below
 
 
 ## Presentations
@@ -85,6 +86,7 @@ the cultural challenges that can be met by those that want to integrate CI into 
 * [Conference Session Page](https://www.pytennessee.org/schedule/presentation/136/)
 * [Slides](https://cdn.rawgit.com/rsyring/2017-pytn-ci-ftw/master/_build/slides/index.html)
 * [Slides GitHub repo](https://github.com/rsyring/2017-pytn-ci-ftw)
+* [Video](https://photos.app.goo.gl/CfLUNWtAp5m7jVpU8)
 
 
 ### CodeMash 2017: Automation For The Win!
